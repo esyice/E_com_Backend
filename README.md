@@ -67,7 +67,7 @@ app.listen(PORT, () => {
 | Command             | Description                        |
 |---------------------|------------------------------------|
 | npm install         | Installs all dependencies          |
-| node index.js       | Starts the server                  |
+| npm start           | Starts the server                  |
 | npm init -y         | Creates a basic package.json       |
 
 📚 Resources
